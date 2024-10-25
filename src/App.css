@@ -1,0 +1,22 @@
+.App {
+  max-width: 1200px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: aliceblue;
+  color: black;
+}
+.btn {
+  width: 200px;
+  padding: 8px 3px;
+  cursor: pointer;
+  border-radius: 5px;
+  outline: none;
+}
+.advice {
+  font-size: 32px;
+  word-spacing: 3px;
+  text-transform: uppercase;
+  text-shadow: 0 2px 0 2px rgba(0, 0, 0, 0.623);
+}
